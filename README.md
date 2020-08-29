@@ -1,4 +1,4 @@
-<h2> 10 Papers Every Software Architect Should-Read</h2>
+<h2> 10 Papers Every Software Architect Should Read</h2>
 
 <ul>
 
